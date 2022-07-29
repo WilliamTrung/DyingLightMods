@@ -1,4 +1,4 @@
-place data2,3,etc in folder mod into: steamapps\common\Dying Light 2\ph\source
+place data2,3,etc in folder mod/pak into: steamapps\common\Dying Light 2\ph\source
 
 Current mods:
 
